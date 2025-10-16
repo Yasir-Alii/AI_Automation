@@ -12,6 +12,7 @@ name = "Yasir"          # String
 age = 21                # Integer
 height = 5.11           # Float
 is_student = True       # Boolean
+her = "J"
 
 # Printing variables
 print("Name:", name)
@@ -28,3 +29,4 @@ print("Next year, I will be:", age)
 # Combining text and variables
 print(f"Hello, my name is {name} and I am {age} years old.")
 print(f"Yasir Ali")
+print(f"HER NAME STARTS WITH THE LETTER",her)
