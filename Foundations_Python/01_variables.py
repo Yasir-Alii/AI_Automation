@@ -22,6 +22,8 @@ print("Student:", is_student)
 # Updating a variable
 age = age + 1
 print("Next year, I will be:", age)
+print("Next year, I will be:", age)
+print("Next year, I will be:", age)
 
 # Combining text and variables
 print(f"Hello, my name is {name} and I am {age} years old.")
